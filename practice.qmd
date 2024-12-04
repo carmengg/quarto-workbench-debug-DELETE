@@ -11,6 +11,5 @@ python: /opt/anaconda3/bin/python
 We will try to reproduce that rendering error.
 
 ```{python}
-# Trying to createa a merge conflict that opens the text editor. 
-import numpy as np
+# Trying to create another merge conflict
 ```
