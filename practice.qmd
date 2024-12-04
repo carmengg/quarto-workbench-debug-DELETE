@@ -11,5 +11,5 @@ python: /opt/anaconda3/bin/python
 We will try to reproduce that rendering error.
 
 ```{python}
-import pandas as pd
+Trying to createa a merge conflict that opens the text editor.
 ```
