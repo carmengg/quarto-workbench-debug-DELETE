@@ -1,0 +1,15 @@
+---
+title: "Practice"
+format: html
+execute:
+  debug: true
+python: /opt/anaconda3/bin/python
+---
+
+# This is a quarto document
+
+We will try to reproduce that rendering error.
+
+```{python}
+import pandas as pd
+```
